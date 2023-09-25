@@ -1,0 +1,7 @@
+pandas
+langchain
+chainlit
+transformers
+torch
+beautifulsoup4
+selenium
