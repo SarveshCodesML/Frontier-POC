@@ -5,3 +5,8 @@ transformers
 torch
 beautifulsoup4
 selenium
+python-docx
+docx2txt
+pinecone-client
+openai
+tiktoken
